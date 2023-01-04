@@ -1,5 +1,5 @@
-# This is Project 1
-This was the most fun project of this class for me!
+# This is my favorite project from my latest class!
+I am very proud of this project!
 
 # Summarize the project and what problem it was solving.
 The point of this project was to make a clock that worked in real time and had settable hours, minutes, and seconds. The clock was to display in 12-hour and 24-hour formats.
